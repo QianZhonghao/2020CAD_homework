@@ -1,0 +1,156 @@
+face_id: 0
+{
+	loop_id: 0
+	[
+		14->11	start vertex coordinate: 		1 6 4
+		11->12	start vertex coordinate: 		1 1 4
+		12->13	start vertex coordinate: 		6 1 4
+		13->14	start vertex coordinate: 		6 6 4
+	]
+	inner_loop_id: 3
+	[
+		17->15	start vertex coordinate: 		3 2 4
+		15->16	start vertex coordinate: 		2 2 4
+		16->17	start vertex coordinate: 		2 3 4
+	]
+	inner_loop_id: 5
+	[
+		21->18	start vertex coordinate: 		5 4 4
+		18->19	start vertex coordinate: 		4 4 4
+		19->20	start vertex coordinate: 		4 5 4
+		20->21	start vertex coordinate: 		5 5 4
+	]
+}
+face_id: 1
+{
+	loop_id: 1
+	[
+		3->0	start vertex coordinate: 		5 0 0
+		0->1	start vertex coordinate: 		0 0 0
+		1->2	start vertex coordinate: 		0 5 0
+		2->3	start vertex coordinate: 		5 5 0
+	]
+	inner_loop_id: 2
+	[
+		6->4	start vertex coordinate: 		1 2 0
+		4->5	start vertex coordinate: 		1 1 0
+		5->6	start vertex coordinate: 		2 1 0
+	]
+	inner_loop_id: 4
+	[
+		10->7	start vertex coordinate: 		3 4 0
+		7->8	start vertex coordinate: 		3 3 0
+		8->9	start vertex coordinate: 		4 3 0
+		9->10	start vertex coordinate: 		4 4 0
+	]
+}
+face_id: 4
+{
+	loop_id: 6
+	[
+		12->11	start vertex coordinate: 		6 1 4
+		11->0	start vertex coordinate: 		1 1 4
+		0->3	start vertex coordinate: 		0 0 0
+		3->12	start vertex coordinate: 		5 0 0
+	]
+}
+face_id: 5
+{
+	loop_id: 7
+	[
+		13->12	start vertex coordinate: 		6 6 4
+		12->3	start vertex coordinate: 		6 1 4
+		3->2	start vertex coordinate: 		5 0 0
+		2->13	start vertex coordinate: 		5 5 0
+	]
+}
+face_id: 6
+{
+	loop_id: 8
+	[
+		14->13	start vertex coordinate: 		1 6 4
+		13->2	start vertex coordinate: 		6 6 4
+		2->1	start vertex coordinate: 		5 5 0
+		1->14	start vertex coordinate: 		0 5 0
+	]
+}
+face_id: 7
+{
+	loop_id: 9
+	[
+		11->14	start vertex coordinate: 		1 1 4
+		14->1	start vertex coordinate: 		1 6 4
+		1->0	start vertex coordinate: 		0 5 0
+		0->11	start vertex coordinate: 		0 0 0
+	]
+}
+face_id: 8
+{
+	loop_id: 10
+	[
+		16->15	start vertex coordinate: 		2 3 4
+		15->4	start vertex coordinate: 		2 2 4
+		4->6	start vertex coordinate: 		1 1 0
+		6->16	start vertex coordinate: 		1 2 0
+	]
+}
+face_id: 9
+{
+	loop_id: 11
+	[
+		17->16	start vertex coordinate: 		3 2 4
+		16->6	start vertex coordinate: 		2 3 4
+		6->5	start vertex coordinate: 		1 2 0
+		5->17	start vertex coordinate: 		2 1 0
+	]
+}
+face_id: 10
+{
+	loop_id: 12
+	[
+		15->17	start vertex coordinate: 		2 2 4
+		17->5	start vertex coordinate: 		3 2 4
+		5->4	start vertex coordinate: 		2 1 0
+		4->15	start vertex coordinate: 		1 1 0
+	]
+}
+face_id: 11
+{
+	loop_id: 13
+	[
+		19->18	start vertex coordinate: 		4 5 4
+		18->7	start vertex coordinate: 		4 4 4
+		7->10	start vertex coordinate: 		3 3 0
+		10->19	start vertex coordinate: 		3 4 0
+	]
+}
+face_id: 12
+{
+	loop_id: 14
+	[
+		20->19	start vertex coordinate: 		5 5 4
+		19->10	start vertex coordinate: 		4 5 4
+		10->9	start vertex coordinate: 		3 4 0
+		9->20	start vertex coordinate: 		4 4 0
+	]
+}
+face_id: 13
+{
+	loop_id: 15
+	[
+		21->20	start vertex coordinate: 		5 4 4
+		20->9	start vertex coordinate: 		5 5 4
+		9->8	start vertex coordinate: 		4 4 0
+		8->21	start vertex coordinate: 		4 3 0
+	]
+}
+face_id: 14
+{
+	loop_id: 16
+	[
+		18->21	start vertex coordinate: 		4 4 4
+		21->8	start vertex coordinate: 		5 4 4
+		8->7	start vertex coordinate: 		4 3 0
+		7->18	start vertex coordinate: 		3 3 0
+	]
+}
